@@ -37,13 +37,15 @@ main {
     background-color: #f1f1f1;
     grid-area: content; 
     padding: 16px; }
-figure { 
+#floatright { 
     margin: 10px; 
     float: right;
 }
-figcaption {
+#floatright figcaption {
   width: 250px; 
-  text-decoration-color: #2c5f2d;
+}
+#meetUpFig {
+  text-align: center;
 }
 h3 {
   font-size: x-large; }
