@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Parent-Child</title>
+ <meta charset="utf-8">
+ <meta name="description" content="testing CSS contextual parent-child selector">
+ <style>
+    div p { font-weight: bold; color: blue; }
+    h1 + h2 { font-style:italic; color: pink; }
+ </style>
+</head>
+<body>
+   <h1>This is my heading 1</h1>
+   <p>This is just a paragraph</p>
+   <h2>This is my heading 2</h2>
+   <div>
+      <p>Paragraph 1 is a direct child of the div</p>
+      <aside>
+           <p>Paragraph 2 is inside an aside element and is not a direct child of the div, it is a direct child of the aside</p>
+      </aside>
+   </div>
+</body>
+</html>

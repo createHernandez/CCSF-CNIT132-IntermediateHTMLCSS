@@ -1,0 +1,74 @@
+body { background-color: #dcdcdc; }
+header { 
+    padding: 10px;
+    background-color: #2c5f2d;
+    text-align: center;
+    color: white;
+    font-size: 15px; }
+#floatright {
+    margin: 10px;
+    float: right;
+    text-align:center;
+    font-size: 70%; }
+/* Main Menu */ 
+#mainMenu ul { 
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+    background-color:#5f5f5f; }
+#mainMenu li { float: left; }
+#mainMenu li a { 
+    display: block;
+    color: white;
+    text-align: center;  
+    padding: 14px 16px; 
+    text-decoration: none; }
+#mainMenu li a:hover { 
+    background-color: #111; 
+    color: #4CAF50; }
+.active { background-color: #4CAF50;}
+/* Assignments Menu */
+#links { 
+    display: flex; 
+    justify-content: center; }
+#links ul { list-style-type: none; }
+#links a { 
+    text-decoration: none;
+    color: white; 
+    font-weight: bold; }
+#links a:hover {
+    text-decoration: underline;
+    color: #97bc62ff; 
+}
+#links ul li { 
+    display: block;
+    width: 400px; 
+    height: 50px; 
+    line-height: 50px; 
+    text-align: center;
+    background-color: #2c5f2d;
+    border-radius: 12px; 
+    margin-bottom: 5px; }
+/* footer */ 
+#copyright { float: right;
+    color: white;  
+    margin: 0; 
+    padding: 14px 16px; 
+    background-color: #5f5f5f; }
+#social ul { 
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+    background-color:#5f5f5f; }
+#social li { float: left; }
+#social li a { 
+    display: block;
+    color: white;
+    text-align: center;  
+    padding: 14px 16px; 
+    text-decoration: none; }
+#social li a:hover { 
+    background-color: #111; 
+    color: #4CAF50; }

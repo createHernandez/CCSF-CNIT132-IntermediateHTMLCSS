@@ -1,0 +1,42 @@
+MOD 5 - HW - Mini Project 2
+Due Tuesday by 11:59pm Points 15 Submitting a text entry box or a website url Available Mar 3 at 8am - May 18 at 11:59pm 3 months
+CNIT-132 – Mini Project 2
+1) Open the web page (homework2.html – this file can be found among the files you downloaded from the course website) in a browser and try to understand the code that is being used (old code and some inline CSS).
+ 
+2) You will modify the code of this page to use HTML5 and you will use external CSS to format the page maintaining the original layout format - NOT MUCH SHOULD CHANGE FROM THE ORIGINAL LAYOUT.
+ 
+3) The idea is that your HTML document will be cleaner without any of those deprecated tags and/or attributes as they will be moved to the CSS part with the appropriate selectors and properties. When creating the CSS think about future maintenance - for example, do not use pseudo-classes based on the position of elements in the page as this will complicate maintenance if elements need to be inserted between existing elements!
+ 
+4) You should include an animation in the table that you see at the bottom of the page. This animation would be simply to change the background color from cyan to green and the color of the font should change from the black (default) to white. You can set up the time to be between 5 and 10 seconds and the animation should stop with the background color green and the font color white. Other than this animation, the rest of the page should be kept as close to the as original as possible, including the background color, size, and color of font, etc. (all, of course, being determined by CSS). 
+Note: remember to use accessible font-size units and find the font-size that is the closest one to represent the size you see inside the font tag (it will not necessarily be the same number!!!!)!
+5) Create, at the bottom of the page, a hyperlink to the assignments.html page (the one you created in mini project 1) - it should open in the same tab/window
+Extra credit (1 point) – include an animation that will act as a banner with a sentence to go from the left to the right side of the page without interruption – should be a continuous and infinite movement. It can be a short sentence in the banner that you will create - you will not find the words/sentences in the homework file. The "banner" should be shown at the top part of the page but below the first heading (look at the file/short movie shown here below showing how the banner should be animated). Do not use obsolete HTML to create the banner and the banner should be seen all the time (should not disappear from the screen area of the browser)!
+Play media comment.
+ 
+The main objectives of this exercise are:
+a. Be able to update the markup from old HTML to HTML5
+b. Be able to set up the formatting of a page using CSS
+c. Be able to understand and use the validator website (for HTML and CSS)
+ 
+Validate your work using the W3C Validator (for the HTML and CSS) and make sure you included any necessary tags, you have learned, to help SEO and accessibility.
+ 
+To submit your work:
+1) When finishing all your modifications, upload ALL necessary file to your Hills Server account or any other web server your prefer to use
+2) Update the assignments.html page (from your mini project 1) to include the link to this mini project 2 page you are creating - it should open in the same tab/window 
+3) Login back into the course website and click on the Assignments link (up left corner)
+
+Click on the link to this homework
+Click on the Submit Assignment button
+In the space provided, type the URL for the SAME web page you created for the mini project 1 (the homepage) or the assignments.html page - I will be able to click on the assignments link, open the assignments page, and find the link in the assignments page to the mini project 2 
+Click on the Submit Assignment button to submit your assignment
+ 
+
+Criteria for grading
+Total Points = 15
+
+You used appropriate DOCTYPE, meta and title tags –  2 points
+Your code passed the validation (it's a valid code), meaning you made all the necessary changes when transforming your code from old HTML to HTML5 and even including any necessary tag you have learned for SEO and accessibility.  – 2 points
+Your CSS code is correct, valid and maintained the original formatting of the page – 5 points
+The animation (background color in the table) was coded correctly and works in 2 of the main browsers: Safari, Firefox, Chrome, and Edge – 4 points
+The assignments.html page from mini project 1 has the link to this mini project 2 page - remember to use meaningful words to your hyperlink such as Working with CSS and the link from mini project 2 page to assignments.html exist and both are working correctly – 2 points
+If you did the extra credit and it is completely according to what was requested, you will see the extra point added to the points given to your assignment.

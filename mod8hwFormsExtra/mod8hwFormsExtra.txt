@@ -1,0 +1,63 @@
+Mod 8 - HW - Forms
+
+You will use the assig7.html file that you will find among the files 
+you downloaded for this course
+
+The main objective of this assignment is to verify that you know how 
+to use the appropriate form controls you learned
+
+You will see that the form element, the Submit, and Clear buttons, 
+and the CSS that will be applied to all elements of the page, have 
+been coded and should not be modified.
+
+What you will need to do is to code the form controls elements to 
+have the following:
+
+* First Name - this field should be required and accept a maximum 
+of 15 characters
+* Last Name - this field should accept only a maximum of 25 characters
+* Age - this field should accept only numbers between 18 and 65 (both included)
+* Email - this field should be required
+* Date of Membership - this field should accept a date but only 
+up to 2021-12-31 - the user should not be able to enter any date 
+after that limit.
+* Choose your reward - this will be a field with the options as 
+shown in the right bottom part of the image below
+
+The image below shows how the form will be shown on the page - 
+notice that the CSS is using the pseudo-class :focus to give the 
+gold color when a field is selected by the user (when the field 
+receives the focus).
+
+You should make your form accessible and you should use the new 
+HTML5 elements.
+
+how the input fields and labels in assignment 7 will look in the 
+browser
+
+After the form, you will insert a link to go from this assignment 
+page to the assignments.html page (the one you build in mini project 1) 
+and it should open in the same tab/window).
+
+ 
+
+Submitting your work
+1. After you finish changing assig7.html, save the file and test on 
+the browser
+2. Modify the assignments.html page to include a link to this assignment 
+with meaningful words such as Forms or Building Forms. Make sure the 
+link will open in the same tab/window.
+3. Upload all the files to your web server
+4. Test the file again using the URL in the browser - starting from 
+homework1.html, then going to assignments.html page and then going to 
+this page and then back - all links should open ok and in the same tab/window.
+5. Copy and paste the URL of your homework1.html or the assignment.html 
+in the box provided below and make sure you click on the Submit/Save button 
+to submit your work
+
+Checklist for grading
+* The HTML is valid - the only acceptable detail is the possible warning 
+about the date field but everything else should be valid - 2 points
+* The URL you provided does not give any type of NOT FOUND or FORBIDDEN 
+error for any of the links - 2 points
+* The elements of the form were created following all requirements - 6 points
